@@ -1,0 +1,14 @@
+layout_spectrum: 0.7451026919297874
+typography_spectrum: 0.2724835625849664
+color:
+  brandStrength: 0.9508070794399828
+  lightness: 0.10108107654377818
+  saturation: 0.6297472796868533
+  rhythmicContrast: 0.3388717924244702
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: xPressTap Test
